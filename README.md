@@ -12,6 +12,8 @@ It automates the entire pipeline from idea generation to content-ready output.
 - Media pipeline integration
 - Automation via webhooks
 
+- n8n
+
 ## Tech Stack
 - n8n
 - OpenAI API
