@@ -12,8 +12,9 @@ It automates the entire pipeline from idea generation to content-ready output.
 - Media pipeline integration
 - Automation via webhooks
 
-- Workflow
-Includes production-ready n8n workflow (workflow.json)
+## Workflow
+Includes production-ready 
+n8n workflow (workflow.json)
 
 ## Tech Stack
 - n8n
